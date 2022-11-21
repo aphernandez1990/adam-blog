@@ -3,7 +3,7 @@ layout: post
 title:  Este es un post de prueba
 date:   2022-11-21 21:00:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-2.jpg # Add image post (optional)
+img: post-andy.jpg # Add image post (optional)
 tags: [Blog, Mountains]
 author: Andy Hernández # Add name author (optional)
 ---
